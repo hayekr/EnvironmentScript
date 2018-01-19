@@ -23,4 +23,4 @@ cd ~/workspace/
 source venv/bin/activate
 
 #Install Flask
-pip install flask
+sudo pip install flask
