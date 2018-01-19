@@ -11,7 +11,7 @@ tar xvf Python-3.6.4.tar.xz
 cd Python-3.6.4
 
 # Configure and Install
-sudo ./configure
+sudo ./configure --enable-optimizations
 sudo make altinstall
 
 #Not sure what all this does
