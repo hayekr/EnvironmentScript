@@ -8,4 +8,4 @@ source venv/bin/activate
 
 #Activate postgresql
 
-sudo service start postgresql start
+sudo service postgresql start
