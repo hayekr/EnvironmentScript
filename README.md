@@ -1,4 +1,10 @@
 # EnvironmentScript
+
+| | |
+|----------|---------------------------------------------------------------------|
+| **TravisCI** 	| [![Build Status](https://travis-ci.org/radare/radare2.svg?branch=master)](https://travis-ci.org/radare/radare2)|
+|
+
 A Script to install flask, update python, and setup virtual environment in c9.io
 
 To run all scripts correctly with no errors use `. ./scriptname` instead of `./script name`
