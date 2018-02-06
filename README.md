@@ -1,6 +1,5 @@
 # EnvironmentScript
 
-| | |
 |----------|---------------------------------------------------------------------|
 | **TravisCI** 	| [![Build Status](https://travis-ci.org/hayekr/EnvironmentScript.svg?branch=master)](https://travis-ci.org/hayekr/EnvironmentScript)|
 |
