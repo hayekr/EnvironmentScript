@@ -1,8 +1,8 @@
 # EnvironmentScript
 
-|----------|---------------------------------------------------------------------|
-| **TravisCI** 	| [![Build Status](https://travis-ci.org/hayekr/EnvironmentScript.svg?branch=master)](https://travis-ci.org/hayekr/EnvironmentScript)|
-|
+
+ **TravisCI** 	| [![Build Status](https://travis-ci.org/hayekr/EnvironmentScript.svg?branch=master)](https://travis-ci.org/hayekr/EnvironmentScript)|
+
 
 A Script to install flask, update python, and setup virtual environment in c9.io
 
