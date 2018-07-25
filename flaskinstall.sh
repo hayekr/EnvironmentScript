@@ -6,9 +6,9 @@
 sudo apt-get update
 
 # Get the source
-wget https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tar.xz
-tar xvf Python-3.6.4.tar.xz
-cd Python-3.6.4
+wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tar.xz
+tar xvf Python-3.7.0.tar.xz
+cd Python-3.7.0
 
 # Configure and Install
 sudo ./configure --enable-optimizations
